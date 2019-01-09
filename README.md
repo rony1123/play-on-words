@@ -14,4 +14,4 @@ This repo contains the following apps built on top of word/sentence embedding:
    * To start the game, navigate to talk_to_star_wars/ and run: `python talk_to_SW.py`
   
   
-**_For more details (pdf and video), visit: <...wait...>_**
+**_For more details (pdf and videos), visit:_** https://www.dropbox.com/sh/okdolpaodki3au0/AADA4vys8AgwLMPFHDGkM715a?dl=0 
